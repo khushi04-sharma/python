@@ -43,6 +43,7 @@ name2.pack()
 
 bt = Button(root, text="Calculate", height=1,
 			width=7, command=calculate_love)
+   #comments
 bt.pack()
 
 # Text on result slot
